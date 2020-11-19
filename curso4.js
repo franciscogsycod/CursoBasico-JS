@@ -11,5 +11,5 @@ kasakh();
 
 //Se declara la función y se asignan las acividades de esa función
 function kasakh(){
-    console.log("Hola " miNombre);
+    console.log("Hola " + miNombre);
 }
