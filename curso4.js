@@ -13,3 +13,4 @@ kasakh();
 function kasakh(){
     console.log("Hola " + miNombre);
 }
+
