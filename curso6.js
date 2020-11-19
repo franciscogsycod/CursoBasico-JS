@@ -3,7 +3,7 @@
 if (true) {
     console.log("Hola");
 }
-else if (){
+else if (False) {
     console.log("Bienvenido");
 }
 else{
